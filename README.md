@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a graduate student of Computer Science at the University of Arizona.
+- 🌱 I’m currently learning differential privacy.
+- 📫 How to reach me: qzydustin@hotmail.com
+- 😄 Pronouns: he/him/his
