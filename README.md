@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a graduate student of Software Engineering at the University of Arizona.
-- 🌱 I’m currently working on cloud computing, such as FaaS(Function as a Service) and containers.
+- 🔭 I’m a graduate student of Computer Science and Engineering at the University of Arizona.
+- 🌱 I’m currently working on LLM for SE.
 - 📫 How to reach me: qzydustin@hotmail.com
 - 😄 Pronouns: he/him/his
